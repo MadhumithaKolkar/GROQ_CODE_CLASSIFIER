@@ -2,6 +2,8 @@
 
 ## Overview
 
+![IMG_4551](https://github.com/user-attachments/assets/39af1f0e-b443-46c3-ae7c-217682753b42)
+
 This project implements a web-based interface using Gradio for classifying and chunking text into code and non-code segments. It leverages the `Llama3` model via the Groq API to process input text and provide classifications. The web interface allows users to input text and receive an organized output that separates code and non-code segments, as well as an overall classification of the input text.
 
 ## Features
